@@ -5,7 +5,16 @@ maximize the chrome browser window
 enter the url
 
 open login page
+
+enter mobile no.
+enter email id
+enter password
+
 enter mobile no
+
 
 final copy 
 close the browser
+
+DOne my changes
+thank you:-)
