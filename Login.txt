@@ -5,8 +5,12 @@ maximize the chrome browser window
 enter the url
 
 open login page
-go to enter mobile no.
+go to mobile no.
+enter email id
+enter password
+
 
 
 
 close the browser
+thank you:-)
