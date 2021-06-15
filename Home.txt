@@ -1,0 +1,5 @@
+After success login 
+
+1.open home page
+2.check the info 
+3.go to profile
