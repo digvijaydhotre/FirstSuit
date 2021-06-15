@@ -3,3 +3,10 @@ Login page
 open the browser
 maximize the chrome browser window
 enter the url
+
+open login page
+go to enter mobile no.
+
+
+
+close the browser
